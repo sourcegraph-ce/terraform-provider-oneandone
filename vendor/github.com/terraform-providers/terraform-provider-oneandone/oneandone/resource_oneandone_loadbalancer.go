@@ -5,7 +5,7 @@ import (
 	"github.com/1and1/oneandone-cloudserver-sdk-go"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/helper/validation"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 )
 
